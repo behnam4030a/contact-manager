@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "fullname": "ایمان مداینی",
+      "photo": "https://toplearn.com/img/user/teachers/15633_2402cc6d-1d17-6a22-e6cc-39e3248f13a4_%D8%A7%DB%8C%D9%85%D8%A7%D9%86_%D9%85%D8%AF%D8%A7%D8%A6%D9%86%DB%8C.jpg",
+      "mobile": "091211128888",
+      "email": "iman@madaeny.com",
+      "job": "برنامه نویس",
+      "group": "دوست",
+      "id": 2
+    },
+    {
+      "fullname": "بهنام بیجاری",
+      "photo": "https://lh3.googleusercontent.com/a/AGNmyxYb7sfl-aJsKp_Mc7nfprx5P_pTGKIbX1KFfmgh=s288-c-no",
+      "mobile": "09158634525",
+      "email": "behnam.4030a@gmail.com",
+      "job": "توسعه دهنده فرات اند",
+      "group": "همکار",
+      "id": 3
+    },
+    {
+      "fullname": "عارف اختری",
+      "photo": "https://media.licdn.com/dms/image/D4E03AQERMc3qX2FfcQ/profile-displayphoto-shrink_100_100/0/1671482194577?e=1690416000&v=beta&t=nZ1mtaq3oUt2fFsD8vxiMZApK3Q3gyw1Ji8Bp0KFieA",
+      "mobile": "091586355555",
+      "email": "aref.@gmail.com",
+      "job": "لینوکس ",
+      "group": "همکار",
+      "id": 4
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "همکار"
+    },
+    {
+      "id": "2",
+      "name": "دوست"
+    },
+    {
+      "id": "3",
+      "name": "فامیل"
+    },
+    {
+      "id": "4",
+      "name": "سرویس"
+    },
+    {
+      "id": "5",
+      "name": "آشنا"
+    }
+  ]
+}

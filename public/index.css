@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'IRANSansWeb';
+    src: url('./fonts/IRANSansWeb.eot');
+    src:
+        url('./fonts/IRANSansWeb.woff2') format('woff2'),
+        url('./fonts/IRANSansWeb.woff') format('woff'),
+        url('./fonts/IRANSansWeb.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body{
+    font-family: IRANSansWeb ,Arial, Helvetica, sans-serif !important;
+}
+.Toastify__toast-body {
+    font-family: IRANSansWeb ,Arial, Helvetica, sans-serif !important;
+}
